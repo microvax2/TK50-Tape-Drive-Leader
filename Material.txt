@@ -1,0 +1,12 @@
+Leader Material Specification
+=============================
+
+Material: PET film, black
+Thickness: 0.18mm-0.2mm
+Coating: no coating
+
+References:
+https://www.2spi.com/category/ito-coated-slides-polyester-film-02/
+(no ito coating needed)
+
+https://www.shpusite.com/227-02mm-03mm-05mm-08mm-1mm-2mm-rigid-thin-coating-pet-film.html
